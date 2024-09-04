@@ -4,7 +4,7 @@ import os
 from sumutils import extract_and_format_text,parse_text_file,concatenate_strings,summarize_all,txt_to_docx
 
 
-extract_and_format_text("salesforce.docx") #SELECT THE NAME OF THE ORIGINAL FILE TO SUMMARIZEGOOGLE_API_KEY=
+extract_and_format_text("example.docx") #SELECT THE NAME OF THE ORIGINAL FILE TO SUMMARIZEGOOGLE_API_KEY=
 
 
 load_dotenv()
